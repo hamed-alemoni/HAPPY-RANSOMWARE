@@ -7,5 +7,5 @@ It's not a tool to hurt people and ruin their life, It just has learning purpose
 
 # Screenshot
 
-![alt text]()
+![alt text](https://github.com/hamed-alemoni/HAPPY-RANSOMWARE/blob/main/Screenshot1.png)
 
