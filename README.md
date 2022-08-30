@@ -9,3 +9,27 @@ It's not a tool to hurt people and ruin their life, It just has learning purpose
 
 ![alt text](https://github.com/hamed-alemoni/HAPPY-RANSOMWARE/blob/main/Screenshot1.png)
 
+# Installation
+
+To get this tool install git then enter below command in command line : 
+```
+git clone <url>
+```
+# Usage
+
+To run this tool first create a virtual envirement :
+```
+python -m venv venv
+```
+then install all modules in reqirements.txt :
+```
+pip install -m requirements.txt
+```
+after that active virtual envirement (in windows):
+```
+venv\Script\active 
+```
+at the end use this command start it :
+```
+python main.py
+```
