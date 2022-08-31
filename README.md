@@ -29,7 +29,7 @@ pip install -m requirements.txt
 ```
 after that active virtual envirement (in windows):
 ```
-venv\Script\active 
+venv\Scripts\activate
 ```
 at the end use this command to start the tool :
 ```
