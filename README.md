@@ -13,7 +13,7 @@ It's not a tool to hurt people and ruin their life, It just has learning purpose
 
 To get this tool install git then enter below command in command line : 
 ```
-git clone <url>
+git clone https://github.com/hamed-alemoni/HAPPY-RANSOMWARE.git
 ```
 
 # Usage
