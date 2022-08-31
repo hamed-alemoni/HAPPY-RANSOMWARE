@@ -18,8 +18,8 @@ ICON_STOP = 0x10
 
 # sending interface
 url = 'https://www.httpdebugger.com/tools/ViewHttpHeaders.aspx'
-token = '5187329742:AAG6NSkdwdw37NL4U66evnrqSNGaNahE184'
-chat_id = '117348935'
+token = ''
+chat_id = ''
 key = ''
 
 
