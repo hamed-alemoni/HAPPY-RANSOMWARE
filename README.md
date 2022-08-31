@@ -29,7 +29,7 @@ after that active virtual envirement (in windows):
 ```
 venv\Script\active 
 ```
-at the end use this command start it :
+at the end use this command to start the tool :
 ```
 python main.py
 ```
