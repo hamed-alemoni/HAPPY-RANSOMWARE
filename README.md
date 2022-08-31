@@ -1,4 +1,4 @@
-# HAPPY RANSOMWARE
+# HAPPY RANSOMWARE ![License](https://img.shields.io/badge/license-GPLv2-green.svg) ![Python 2.6|2.7|3.x](https://img.shields.io/badge/python-3.x-blue.svg)
 
 HAPPY RANSOMWARE is a tool to encrypt and decrypt file with Fernet algorithm (symmetric encryption).
 This tool can create .exe and .py file(encrypt and decrypt) for you and it has better performance for windows user.
@@ -29,7 +29,7 @@ pip install -m requirements.txt
 ```
 after that active virtual envirement (in windows):
 ```
-venv\Script\active 
+venv\Scripts\activate
 ```
 at the end use this command to start the tool :
 ```
