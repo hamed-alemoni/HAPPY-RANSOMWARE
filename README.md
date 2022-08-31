@@ -15,10 +15,12 @@ To get this tool install git then enter below command in command line :
 ```
 git clone <url>
 ```
+
 # Usage
 
 To run this tool first create a virtual envirement :
 ```
+cd HAPPY-RANSOMWARE
 python -m venv venv
 ```
 then install all modules in reqirements.txt :
