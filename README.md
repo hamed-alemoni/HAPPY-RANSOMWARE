@@ -25,7 +25,7 @@ python -m venv venv
 ```
 then install all modules in reqirements.txt :
 ```
-pip install -m requirements.txt
+pip install -r requirements.txt
 ```
 after that active virtual envirement (in windows):
 ```
